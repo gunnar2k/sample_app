@@ -1,0 +1,1 @@
+## My sample rails application
